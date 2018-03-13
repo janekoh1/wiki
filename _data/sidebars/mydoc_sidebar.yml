@@ -1,0 +1,69 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: Geohackweek Wiki
+  version: 2018
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Overview
+    output: web, pdf
+    folderitems:
+
+    - title: Hackweek Overview
+      url: /index.html
+      output: web, pdf
+      type: homepage
+
+    - title: Code of Conduct
+      url: /code_of_conduct.html
+      output: web, pdf
+
+    - title: Hacking Central
+      url: /hacking_central.html
+      output: web, pdf
+
+    - title: Mission Statement
+      url: /mission_statement.html
+      output: web, pdf
+
+    - title: Travel and Lodging
+      url: /travel_and_lodging.html
+      output: web, pdf
+
+  - title: Details
+    output: web, pdf
+    folderitems:
+
+    - title: Participants
+      url: /participants.html
+      output: web, pdf
+
+    - title: Project Guidelines
+      url: /project_guidelines.html
+      output: web, pdf
+
+  - title: Content
+    output: web, pdf
+    folderitems:
+
+    - title: Running Jupyter Notebooks Locally
+      url: /running_jupyter_notebooks.html
+      output: web, pdf
+
+    - title: Hackweek Materials
+      url: /hackweek_materials.html
+      output: web, pdf
