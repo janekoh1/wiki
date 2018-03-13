@@ -1,0 +1,3 @@
+[submodule "jekyll-hackweek-wiki"]
+	path = jekyll-hackweek-wiki
+	url = https://github.com/oceanhackweek/jekyll-hackweek-wiki.git
