@@ -1,10 +1,10 @@
 ---
-title: "Ocean Hackweek 2018"
+title: "Oceanhackweek 2018"
 keywords: homepage
 tags: [homepage]
 sidebar: mydoc_sidebar
 permalink: index.html
-summary: Overview of the Ocean Hackweek
+summary: Overview of the Oceanhackweek
 ---
 ## What is a hackweek?
 
