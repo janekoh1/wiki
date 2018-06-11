@@ -10,15 +10,10 @@ The meeting will happen in the [Odegaard Undergraduate Library](https://www.goog
 
 Seattle-Tacoma International Airport offers a range of connections to the University of Washington Campus. Please see this [site](http://fyp.washington.edu/getting-started-at-the-university-of-washington/transportation-options/) for more information on ways to get to UW.
 
+The Link light rail is an easy, great way to get to the UW from the airport. It comes about every 5-10 minutes and drops you off a 15 minute walk from the dorms.
+
 # Lodging
 
-We are in the process of reserving rooms at the University of Washington North Campus residence hall. Additional  details TBD. 
-
-<!---
-The University of Washington maintains a list of hotels near campus on its [website](http://fyp.washington.edu/getting-started-at-the-university-of-washington/transportation-options/hotel-accommodations/).
-
-Dorm rooms are available on the North Campus for $43.25 per person, per night for double occupancy, and $69.50 per night for single occupancy. Please email geohack.week@gmail.com by Friday, 7/21 to reserve a dorm room. Please be sure to specify your arrival and departure dates and the number of nights needed.
-
-The North Campus residence halls include single-gender community restrooms, hardwired Internet in the sleeping rooms and easy access to one of our All-You-Care-to-Eat (AYCE) dining facilities, 8 at McMahon. Wireless Internet access is available in the common areas and dining facilities. North Campus is home to the Husky Union Building’s event and dining venues as well as a short walk from the Intramural Activities Building (our world-class fitness center) and Seattle’s University Village.
-
---->
+- Folks staying in the dorms will be staying on West Campus in Alder Hall.
+- Check in is a 2pm and check out is at 11am. (Early check-in and later check-out can typically be requested).
+- Our west residence halls feature rooms with private restrooms, wireless Internet, and close proximity to the Henry Art Gallery and the Meany Hall for the Performing Arts. West Campus also boasts one of our All-You-Care-to-Eat (AYCE) dining facilities, Local Point at Lander Hall, full-service restaurant (Cultivate) and campus grocery store (District Market). For off-campus activities, guests have easy access to The Ave, which hosts a number of restaurants, late-night activities and retail establishments.
