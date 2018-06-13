@@ -17,9 +17,13 @@ The hackweek model has emerged within the data science community as a powerful t
 - **Participants are expected to attend all scheduled Oceanhackweek activities.** Contact an organizer if any circumstances prevent you from attending.
 
 ### Food
-- **All meals (breakfast, lunch and dinner) are provided for all days**. 
-- Breakfast and dinner will be provided through meal cards, in which you can purchase on campus food. 
+
+- Breakfast and lunch are provided for all days.
+- Breakfast will be provided through meal cards, in which you can purchase on campus food.
 - Lunch will be catered and held at the [eScience Institute](https://goo.gl/maps/5H5xF2nFjFU2) each day.
+- Dinner and drinks will be provided on Monday.
+- Participants are expected to take care of their own dinners Tuesday - Friday.
+- If you plan to drink alcohol at our reception on Monday, please be sure to bring ID as the bartenders are required to check.
 - Coffee breaks will be provided each day.
 
 ### Internet access and communication
