@@ -20,7 +20,7 @@ Harassment includes, but is not limited to:
 
 Participants asked to stop any harassing behavior are expected to comply immediately. If a participant engages in harassing behaviour, the organisers retain the right to take any actions to keep the event a welcoming environment for all participants. This includes warning the offender or expulsion from Oceanhackweek with no refund.
 
-Geohackweek organisers may take action to redress anything designed to, or with the clear impact of, disrupting the event or making the environment hostile for any participants. We expect participants to follow these rules at all the event venues and event-related social activities.
+Oceanhackweek organisers may take action to redress anything designed to, or with the clear impact of, disrupting the event or making the environment hostile for any participants. We expect participants to follow these rules at all the event venues and event-related social activities.
 
 Harassment and other code of conduct violations reduce the value of Oceanhackweek for everyone. If someone makes you or anyone else feel unsafe or unwelcome, please report it as soon as possible to one of the instructors. You can make a report either personally or anonymously. Anonymous reports can be made here: https://oceanhackweek.wufoo.com/forms/zep2ybt1swlulc/
 
