@@ -20,7 +20,7 @@ The hackweek model has emerged within the data science community as a powerful t
 ### Food
 
 - Breakfast and lunch are provided for all five days of Oceanhackweek.
-- Breakfast will be provided through meal cards, in which you can purchase on campus food at [Local Point](https://hfs.uw.edu/Eat/Dining-Locations/Local-Point) in [Lander Hall](https://www.google.com/maps?ll=47.655878,-122.31524&z=15&t=m&hl=en-US&gl=US&mapclient=embed&cid=14768209898309609299). Local point is ann All-You-Care-To-Eat dining facility. Breakfast will be available from 7am - 9am each morning. Feel free to stop by anytime between 7am and 9am to grab breakfast.
+- Breakfast will be provided through meal cards, in which you can purchase on campus food at [Local Point](https://hfs.uw.edu/Eat/Dining-Locations/Local-Point) in [Lander Hall](https://www.google.com/maps?ll=47.655878,-122.31524&z=15&t=m&hl=en-US&gl=US&mapclient=embed&cid=14768209898309609299). Local point is an All-You-Care-To-Eat dining facility. Breakfast will be available from 7am - 9am each morning. Feel free to stop by anytime between 7am and 9am to grab breakfast.
 - Lunch will be catered and held at the [eScience Institute](https://goo.gl/maps/5H5xF2nFjFU2) each day.
 - If you are staying in the dorms, you will receive your meal card for breakfast when you check-in at Lander Hall. If you are not staying at the dorms, you can pick up your meal card at the Lander Hall front desk the morning of August 20th. If you do not pick up your meal card that morning, we will bring them to you at Odegaard and hand them out later that day.
 - Dinner and drinks will be provided on Monday at the Welcome Reception held at the [eScience Institute](https://goo.gl/maps/5H5xF2nFjFU2).
