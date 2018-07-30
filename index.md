@@ -12,7 +12,7 @@ The hackweek model has emerged within the data science community as a powerful t
 
 ### Quick Info
 - Oceanhackweek will be held in the **Odegaard Active Learning Center, Room 136**.
-- **Doors open at 9:00 am** each morning (Monday-Friday).
+- **Doors open at 9:00 am** each morning (Monday-Friday) and we will get started right around 9am.
 - Due to space limitations, only registered Oceanhackweek participants will be allowed to attend the tutorials and open working sessions.
 - **Participants are expected to attend all scheduled Oceanhackweek activities.** Contact an organizer if any circumstances prevent you from attending.
 
