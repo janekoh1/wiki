@@ -18,7 +18,7 @@ The hackweek model has emerged within the data science community as a powerful t
 
 ### Food
 
-- Breakfast and lunch are provided for all days.
+- Breakfast and lunch are provided for all five days of Oceanhackweek.
 - Breakfast will be provided through meal cards, in which you can purchase on campus food at [Local Point](https://hfs.uw.edu/Eat/Dining-Locations/Local-Point) in [Lander Hall](https://www.google.com/maps?ll=47.655878,-122.31524&z=15&t=m&hl=en-US&gl=US&mapclient=embed&cid=14768209898309609299). Breakfast will be available from 7am - 9am each morning.
 - Lunch will be catered and held at the [eScience Institute](https://goo.gl/maps/5H5xF2nFjFU2) each day.
 - Dinner and drinks will be provided on Monday.
