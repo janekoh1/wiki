@@ -37,7 +37,7 @@ Brief title describing the proposed work.
 
 #### Collaborators on this project
 
-_List all participants on the project. Choose one team member to act as project lead, and identify one geohack organizer as the data science lead._
+_List all participants on the project. Choose one team member to act as project lead, and identify one oceanhack organizer as the data science lead._
 
 #### The problem
 
