@@ -6,7 +6,7 @@ permalink: travel_and_lodging.html
 
 The meeting will happen in the [Odegaard Undergraduate Library](https://www.google.com/maps/place/Odegaard+Undergraduate+Library+(OUG)/@47.6564656,-122.3125347,17z/data=!3m1!4b1!4m5!3m4!1s0x549014f329bffff7:0x6efe7422cf2f2f93!8m2!3d47.656462!4d-122.310346) on the University of Washington campus. We will meet in the [Active Learning Classroom OUG 136](https://www.washington.edu/classroom/OUG+136).
 
-# Travel
+## Travel
 
 Seattle-Tacoma International Airport offers a range of connections to the University of Washington Campus.
 
@@ -16,9 +16,9 @@ From the arrivals hall at Sea-Tac Airport, follow the signs for Link Light Rail;
 
 Taxi’s and uber/lyft are also available from the airport. Note that for uber/lyft you will meet the car in the 3rd floor parking lot for pick up.
 
-# Lodging
+## Lodging
 
-- Participants staying in the dorms will be staying in the West Campus Residence Halls in [Alder Hall](https://hfs.uw.edu/Live/Housing-Locations/Alder-Hall). 
+- Participants staying in the dorms will be staying in the West Campus Residence Halls in [Alder Hall](https://hfs.uw.edu/Live/Housing-Locations/Alder-Hall).
 - Dorm rooms are shared, two to a room, with each room having a private bathroom.
 - **Check in is at 2pm** at the front desk in [Lander Hall](https://www.google.com/maps/place/Lander+Hall/@47.655878,-122.31524,15z/data=!4m5!3m4!1s0x0:0xccf338a83d26e753!8m2!3d47.655878!4d-122.3152398?hl=en-US). The front desk will direct you to [Alder Hall](https://www.google.com/maps/place/Alder+Hall,+1315+NE+Campus+Pkwy,+Seattle,+WA+98105/@47.6558003,-122.3160943,17z/data=!3m1!4b1!4m5!3m4!1s0x549014f3abe36e05:0xe31f6b19dc9d1dac!8m2!3d47.6558003!4d-122.3139056) where you will be housing.
 - **Check out is at 11am.** There will be a room where you can store your luggage if your flight is later that day. If you see a problem with an 11am check-out on your date of departure, please let Rachael Murray (@rachael on slack or rlmurray@uw.edu on email) know asap and she can request a late check out.
