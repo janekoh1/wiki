@@ -37,23 +37,19 @@ Brief title describing the proposed work.
 
 #### Collaborators on this project
 
-_List all participants on the project. Choose one team member to act as project lead, and identify one oceanhack organizer as the data science lead._
+List all participants on the project.
 
 #### The problem
 
-What oceanographic problem are you going to explore? Provide a few sentences. If this is a technical exploration of software or data science methods, explain why this work is important in a broader context.
+What oceanographic data science problem are you going to explore? Try to focus on the data science/methodology problem first, followed by the location-specific oceanographic example afterwards. The project is likely more engaging for fellow hackers if it is centered around common data science problems. For example, the project could be to develop a workflow in Python to analyze CTD time series from multiple data sources, instead of emphasizing and focusing only on temperature variations in one very specific part of the ocean.
 
 #### Application Example
 
-List one specific application of this work.
+Here is where you follow up with a location-specific example of where the data science methodology applies and list example datasets (size, format, how to access) that could be used for this exploration.
 
-#### Sample data
+#### Specific Tasks
 
-If you already have some data to explore, briefly describe it here (size, format, how to access).
-
-#### Specific Questions
-
-List the specific tasks you want to accomplish or research questions you want to answer.
+List the specific tasks you want to accomplish.
 
 #### Existing methods
 
