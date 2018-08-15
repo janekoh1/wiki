@@ -103,3 +103,5 @@ Jessica Anderson [![github icon](https://raw.githubusercontent.com/geohackweek/g
 Joseph Gum [![github icon](https://raw.githubusercontent.com/geohackweek/ghw2016/master/img/github-black.png)](https://github.com/asx)
 
 Craig Risien [![github icon](https://raw.githubusercontent.com/geohackweek/ghw2016/master/img/github-black.png)](https://github.com/crisien)
+
+Eric McRae [![github icon](https://raw.githubusercontent.com/geohackweek/ghw2016/master/img/github-black.png)](https://github.com/swearic)
