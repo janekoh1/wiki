@@ -64,7 +64,7 @@ Xiangming Zeng [![github icon](https://raw.githubusercontent.com/geohackweek/ghw
 
 David Correa [![github icon](https://raw.githubusercontent.com/geohackweek/ghw2016/master/img/github-black.png)](https://github.com/davecorrea)
 
-Rachel Carlson [![github icon](https://raw.githubusercontent.com/geohackweek/ghw2016/master/img/github-black.png)](https://github.com/rcarlson)
+Rachel Carlson [![github icon](https://raw.githubusercontent.com/geohackweek/ghw2016/master/img/github-black.png)](https://github.com/rrcarlson)
 
 Emma Ozanich [![github icon](https://raw.githubusercontent.com/geohackweek/ghw2016/master/img/github-black.png)](https://github.com/emma-oz)
 
