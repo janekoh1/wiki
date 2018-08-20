@@ -25,3 +25,23 @@ Oceanhackweek organisers may take action to redress anything designed to, or wit
 Harassment and other code of conduct violations reduce the value of Oceanhackweek for everyone. If someone makes you or anyone else feel unsafe or unwelcome, please report it as soon as possible to one of the instructors. You can make a report either personally or anonymously. Anonymous reports can be made here: [https://oceanhackweek.wufoo.com/forms/zep2ybt1swlulc/](https://oceanhackweek.wufoo.com/forms/zep2ybt1swlulc/)
 
 This anti-harassment policy is based on the example policy from the Geek Feminism wiki, created by the Ada Initiative and other volunteers.
+
+## Group Discussion from OHW Day 1
+
+Ideas from OHW participants from the initial 1-2-4 session on Monday morning:
+
+* If you see something, say something (wrt code of conduct) -- everyone can take responsibility for supporting participants
+* Push your comfort zone, ask questions from many, reach out to the room
+* Stay positive
+* Creating space where everyone feels comfortable asking questions
+* Don’t dismiss ideas you may not fully understand;  issues are challenges
+* Respect our diverse backgrounds (language, technical skills, science background; career stage)
+* Putting our best selves forward
+* Be present
+* Everyone feels comfortable contributing
+* Be mindful of everyone’s background and constraints
+* Work with the person, don’t just take over their keyboard
+* Opportunity for anonymous comments (also use Slack)
+* Empathize, put yourself in others’ shoes
+
+
