@@ -1,5 +1,5 @@
 ---
-title: "Oceanhackweek 2018"
+title: "Oceanhackweek 2019"
 keywords: homepage
 tags: [homepage]
 sidebar: mydoc_sidebar
