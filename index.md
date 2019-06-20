@@ -12,7 +12,7 @@ The hackweek model has emerged within the data science community as a powerful t
 
 ### Quick Info
 - Oceanhackweek will be held in the [**Alder Hall**](https://www.google.com/maps/place/Alder+Hall/@47.6554627,-122.3161919,17z/data=!3m1!4b1!4m5!3m4!1s0x549014f3a8e0b367:0xbb5d4cb93538ce99!8m2!3d47.6554591!4d-122.3140032) rooms 103, 104, 107 and The Common foyer** at the University of Washington, Seattle campus.
-- **Doors open at 9:00 am** each morning (Monday-Friday) and we will get started right around 9am. The doors will be locked each morning prior to 9am.
+- **Doors open at 9:00 am** each morning (Monday-Friday), and we will get started right around 9am. The doors will be locked each morning prior to 9am.
 - Check in will take place on the first day in The Commons foyer. You will receive a nametag and be asked to sign a media release form.
 - Due to space limitations, only registered Oceanhackweek participants will be allowed to attend the tutorials and open working sessions.
 - **Participants are expected to attend all scheduled Oceanhackweek activities.** Contact an organizer if any circumstances prevent you from attending.
