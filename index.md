@@ -15,7 +15,7 @@ The hackweek model has emerged within the data science community as a powerful t
 - **Doors open at 9:00 am** each morning (Monday-Friday), and we will get started right around 9am. The doors will be locked each morning prior to 9am.
 - Check in will take place on the first day in The Commons foyer. You will receive a nametag and be asked to sign a media release form.
 - Due to space limitations, only registered Oceanhackweek participants will be allowed to attend the tutorials and open working sessions.
-- **Participants are expected to attend all scheduled Oceanhackweek activities.** Contact an organizer if any circumstances prevent you from attending.
+- **Participants are expected to attend all scheduled Oceanhackweek activities.** Please email oceanhkw@uw.edu if any circumstances prevent you from attending.
 
 ### Food
 
