@@ -33,7 +33,6 @@ Non-sponsored participants are welcome to dine at Local point at their own expen
 - Slack: [https://oceanhackweek2019.slack.com](https://oceanhackweek2019.slack.com/)
 
 ### Flights and Commuting 
-See [Travel and Lodging Page](travel_and_lodging.html)
 
 For your flights, the closest airport to our university is the Seattle-Tacoma International Airport, which offers a range of connections to the University of Washington Campus.
 
