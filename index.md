@@ -28,7 +28,7 @@ The hackweek model has emerged within the data science community as a powerful t
 - If you plan to drink alcohol at our reception on Monday, please be sure to bring ID as the bartenders are required to check.
 - Coffee breaks will be provided each day.
 
-### Internet access and communication
+### Internet access and communication!
 - For information on wireless access, you can either use Eduroam, if it’s available to you, or we’ll give you guest access to the UW network on the first day.
 - Twitter: #Oceanhackweek
 - Slack: [https://oceanhackweek2018.slack.com](https://oceanhackweek2018.slack.com)
