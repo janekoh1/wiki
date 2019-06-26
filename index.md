@@ -19,11 +19,12 @@ The hackweek model has emerged within the data science community as a powerful t
 
 ### Food
 
-- Breakfasts and lunches are provided using meal cards for funded participants all five days of Oceanhackweek. These can be used to purchase on campus food at [Local Point](https://hfs.uw.edu/Eat/Dining-Locations/Local-Point) in [Lander Hall](https://www.google.com/maps/place/Local+Point/@47.6555237,-122.3171479,17z/data=!3m1!4b1!4m5!3m4!1s0x549014f3b7263aa7:0x9b4a428fed19f0fa!8m2!3d47.6555201!4d-122.3149592). Local point is an all-you-can-eat dining facility. Breakfast will be available from 7am - 9am each morning. Feel free to stop by anytime between 7am and 9am to grab breakfast.
-Non-funded participants are welcome to dine at Local point at their own expense. 
+- Breakfasts and lunches will be provided using meal cards for funded participants all five days of Oceanhackweek. Partipants may use their cards to cover dinners as well if they have any unused balances to do so. Each card is loaded with $25 each day and can be be used to purchase food and beverages at any [UW dining location](https://hfs.uw.edu/Eat/Dining-Locations/By-George) such as [Local Point](https://hfs.uw.edu/Eat/Dining-Locations/Local-Point) in [Lander Hall](https://www.google.com/maps/place/Local+Point/@47.6555237,-122.3171479,17z/data=!3m1!4b1!4m5!3m4!1s0x549014f3b7263aa7:0x9b4a428fed19f0fa!8m2!3d47.6555201!4d-122.3149592). Local point is an all-you-can-eat dining facility near our hackweek venue. Breakfast will be available here from 7am - 9am each morning. Note: remaining balances on meal cards will carry over into the following event day. 
+
+Non-funded participants are welcome to dine at any UW dining location as well at their own expense. 
 - If you are a funded particpant, you will receive your meal card for your breakfasts and lunches when you check in at Lander Hall. If you are a funded participant not staying at the dorms, you can pick up your meal card at the Lander Hall front desk the morning of August 26th. 
 - Dinner and drinks will be provided on Monday at the Welcome Reception held at the [eScience Institute](https://goo.gl/maps/5H5xF2nFjFU2).
-- Participants are expected to take care of their own dinners Tuesday - Friday. Aside from UW dining locations, there are many restaurants on “The Ave” (University Way), serving foods such as subway sandwiches, teriyaki, tacos, etc. that are worth exploring.
+- Aside from UW dining locations, there are many restaurants on “The Ave” (University Way), serving foods such as subway sandwiches, teriyaki, tacos, etc. that are worth exploring at your own expense.
 - If you plan to have alcohol at our reception on Monday, please be sure to bring your ID as the bartenders are required to check.
 - Coffee breaks will be provided each day.
 
