@@ -18,14 +18,14 @@ Increasingly, research and software development is being conducted across groups
 
 ## How will the projects be conducted?
 
-* on day 1 we will facilitate the sharing of ideas and formation of people into small teams (2-5 people)
-* once formed, each team will be guided through exercises to help narrow in on a set of tasks that are doable within the 5 days. A brief project outline will be posted to GitHub, following the "Project Guidelines" below.
+* On day 1 we will facilitate the sharing of ideas and formation of people into small teams (2-5 people)
+* Once formed, each team will be guided through exercises to help narrow in on a set of tasks that are doable within the 5 days. A brief project outline will be posted to GitHub, following the "Project Guidelines" below.
 
 ## What can I do to prepare in advance?
 
-* if you have a project idea already brewing, we encourage you to share that with the team on our general Slack channel. We can add additional channels as the project ideas develop.
-* feel free to explore various projects and initiate conversations. The goal is to gather as much information as you can to inform your decision about which team to join when we meet in person.
-* contact an oceanhack organizer if you would like assistance in assessing whether a project is well-scoped, or if you need help with a particular dataset.
+* If you have a project idea already brewing, we encourage you to share that with the team on our general Slack channel. We can add additional channels as the project ideas develop.
+* Feel free to explore various projects and initiate conversations. The goal is to gather as much information as you can to inform your decision about which team to join when we meet in person.
+* Contact an oceanhack organizer if you would like assistance in assessing whether a project is well-scoped, or if you need help with a particular dataset.
 
 # Project guidelines
 
@@ -57,8 +57,15 @@ How would you or others traditionally try to address this problem?
 
 #### Proposed methods/tools
 
-Building from what you learn at geohackweek, what new approaches would you like to try to implement?
+Building from what you learn at oceanhackweek, what new approaches would you like to try to implement?
 
 #### Background reading
 
 Optional: links to manuscripts or technical documents for more in-depth analysis.
+
+# Project Ideas
+* Developing tutorials for using NASA data on the cloud.
+* Working on an efficient open source matchup tutorial for satellite orbital data and in situ point or trajectory data.
+* Developing an OSS algorithm development toolbox in Python to deal with a 400GB AMSR brightness temperature - in situ matchup database.
+* [Argovis - a visualualization and API for accessing Argo data](https://argovis.colorado.edu/ng/home)
+* [OHW18 Projects](https://oceanhackweek.github.io/projects.html)
