@@ -10,8 +10,7 @@ Python software is distributed as a series of *libraries* that are called within
 
 Even though Python is one of the most adaptable, easy-to-use software systems, you can see there are still complexities to work out and potential challenges when delivering content to a large group. Therefore we have a number of different ways that we are trying to simplify this process to maximize your learning during Oceanhackweek.
 
-We will be using [http://ocean.pangeo.io](http://ocean.pangeo.io).
-[Pangeo](https://www.slideshare.net/willingc/jupyterhub-a-thing-explainer-overview) is a platform for using Jupyter Notebooks in the ocean, atmospheric, and climate research community.
+We will be using [Ocean Pangeo](https://pangeo.io/)([(http://ocean.pangeo.io)](http://ocean.pangeo.io).), which is a platform for using Jupyter Notebooks in the ocean, atmospheric, and climate research community.
 A Jupyter Notebook is an open-source web application that allows users to create and share documents containing live code, equations, visualizations, and markdown texts.
 
 ### Setting up Python locally
