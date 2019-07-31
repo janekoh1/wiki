@@ -43,7 +43,7 @@ After making sure that all the above requirements are met, please go ahead and b
 
 ## Lodging
 
-All funded participants will be staying in a doubles dorm at Alder Hall. They will be assigned at random to another particpant of the same sex. You must email oceanhkw@uw.edu by July 19 if you have any special needs.
+All funded participants will be staying in a doubles dorm at Alder Hall. They will be assigned at random to another participant of the same sex. You must email oceanhkw@uw.edu by July 19 if you have any special needs.
 
 Non-funded participants have the option of being randomly paired with another participant of the same sex in a double dorm for $56.50 per night at Alder Hall. They can also stay in a single dorm at Alder Hall for $96 per night. If you prefer either of these options, you must let us know by emailing oceanhkw@uw.edu by July 19 to be added to the list.
 
@@ -56,18 +56,3 @@ If you prefer to stay at a hotel, here are some in walking distance from our hac
 •	[University Inn](https://www.reservations.com/hotel/university-inn-seattle-pineapple-hospitality?gclid=EAIaIQobChMIkbn7q_mJ4gIVBr3sCh0KUAMkEAAYASAAEgL-q_D_BwE)
 •	[Watertown Hotel](https://www.staypineapple.com/watertown-hotel-seattle-wa?utm_source=google-my-business&utm_medium=organic&utm_campaign=GMB&utm_term=wt)
 •	[Marriott Residence Inn](https://www.guestreservations.com/residence-inn-by-marriott-seattle-university-district/booking?gclid=EAIaIQobChMI6vau_PiJ4gIVYR6tBh0CEQzdEAAYASAAEgJWPPD_BwE)
-
-
-<!---
-### Pre-event preparation:
-- Please review our [Code of Conduct](https://oceanhackweek.github.io/wiki/code_of_conduct.html).
-- Please arrive with your laptop ready for tutorial and project work, following our instructions [here](https://geohackweek.github.io/preliminary/). Contact us on Slack (#preliminary_setup) if you have any difficulties. Checklist:
-    - [X] Do you have a working local version of Python installed (using conda?).
-    - [X] Did you sign up for a Google Earth Engine account?
-    - [X] Do you have a GitHub account?
-    - [X] Did you successfully spin up a jupyter notebook in [Geohackweek Jupyter Hub](https://jupyterhub.cloudmaven.org/)?
-- If you haven't done so already, please add your name to the [Participants List](https://oceanhackweek.github.io/wiki/participants.html)
-by creating a pull request.
-- Review the [Project Guidelines](Project-Guidelines) and begin communicating with organizers and other participants about possible project ideas
-
---->
