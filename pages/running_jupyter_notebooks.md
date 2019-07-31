@@ -14,10 +14,11 @@ We will be using [http://ocean.pangeo.io](http://ocean.pangeo.io).
 [Pangeo](https://www.slideshare.net/willingc/jupyterhub-a-thing-explainer-overview) is a platform for using Jupyter Notebooks in the ocean, atmospheric, and climate research community.
 A Jupyter Notebook is an open-source web application that allows users to create and share documents containing live code, equations, visualizations, and markdown texts.
 
+### Setting up Python locally
 
-We also provide instructions for using [Miniconda](https://conda.io/miniconda.html), which is our recommended Python distribution. We can assist in setting up "conda" environments that will simplify the gathering of Python libraries and version specific to the tutorial you are working on.
+Although, you we will provide you with a Python working environment, it will be good if you set up Python locally on your laptop: you might need it for some of your project work, Python review, or for future Python development. We recommend installing the [Miniconda](https://conda.io/miniconda.html) Python distribution. We can assist in setting up "conda" environments that will simplify the gathering of Python libraries and version specific to the tutorial you are working on.
 
-### Getting set up with Conda
+
 
 [**Conda**](http://conda.pydata.org/docs/) is an **open source `package` and `environment` management system for python libraries**. We will be using various
 Python libraries with multiple dependencies, so it is critical that you have some sort of 
