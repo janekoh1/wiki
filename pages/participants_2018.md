@@ -1,7 +1,7 @@
 ---
 title: Participants
 sidebar: mydoc_sidebar
-permalink: participants.html
+permalink: participants_2018.html
 ---
 
 ## Oceanhackweek Participant list: 2018
