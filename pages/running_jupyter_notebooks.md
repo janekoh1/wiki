@@ -11,7 +11,7 @@ Python software is distributed as a series of *libraries* that are called within
 Even though Python is one of the most adaptable, easy-to-use software systems, you can see there are still complexities to work out and potential challenges when delivering content to a large group. Therefore we have a number of different ways that we are trying to simplify this process to maximize your learning during Oceanhackweek.
 
 We will be using [Ocean Pangeo](https://pangeo.io/) ([http://ocean.pangeo.io](http://ocean.pangeo.io)), which is a platform for using Jupyter Notebooks in the ocean, atmospheric, and climate research community.
-A Jupyter Notebook is an open-source web application that allows users to create and share documents containing live code, equations, visualizations, and markdown texts.
+A [Jupyter Notebook](https://jupyter.org/) is an open-source web application that allows users to create and share documents containing live code, equations, visualizations, and markdown texts.
 
 ### Setting up Python locally
 
@@ -39,7 +39,7 @@ Click [here](/01-conda-tutorial/) to start our Conda tutorial. Let us know if on
 Given all the heavy use of Python during Oceanhackweek, we will not be able to provide instruction in Python fundamentals. We expect you to have basic Python familiarity on the level of manipulating variables (lists, arrays), writing loops/functions, making simple plots. If you have not used Python before or it has been a while since you have used it, please, go thouroughly through the lesson below
 
 * [Python tutorial](https://swcarpentry.github.io/python-novice-gapminder/)
-* [Notebook environment] (swcarpentry/python-novice-gapminder/binder)
+* [Notebook environment](swcarpentry/python-novice-gapminder/binder)
 
 The more, the better! Here are a few more Python resources:
 * [Codecademy Lesson](https://www.codecademy.com/learn/learn-python-3)
