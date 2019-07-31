@@ -8,12 +8,12 @@ permalink: running_jupyter_notebooks.html
 
 Python software is distributed as a series of *libraries* that are called within your code to perform certain tasks. There are many different collections, or *distributions* of Python software. Generally you install a specific distribution of Python and then add additional libraries as you need them. There are also several different *versions* of Python. The two main versions right now are 2.7 and 3.7. During the hackweek we will be using Python 3.7 for the tutorials, and encouraging participants to do so. If you have only used Python 2 in the past see [here](https://wiki.python.org/moin/Python2orPython3) for more details.
 
-So even though Python is one of the most adaptable, easy-to-use software systems, you can see there are still complexities to work out and potential challenges when delivering content to a large group. Therefore we have a number of different ways that we are trying to simplify this process to maximize your learning during Oceanhackweek.
+Even though Python is one of the most adaptable, easy-to-use software systems, you can see there are still complexities to work out and potential challenges when delivering content to a large group. Therefore we have a number of different ways that we are trying to simplify this process to maximize your learning during Oceanhackweek.
 
 We will be using <http://ocean.pangeo.io>.
-Pangeo is a [JupyterHub-like](https://jupyterhub.readthedocs.io/en/latest) implementation for the for ocean, atmospheric, and climate research community.
+[Pangeo](https://www.slideshare.net/willingc/jupyterhub-a-thing-explainer-overview) is a platform for using Jupyter Notebooks in the ocean, atmospheric, and climate research community.
 A Jupyter Notebook is an open-source web application that allows users to create and share documents containing live code, equations, visualizations, and markdown texts.
-Here's a [overview](https://www.slideshare.net/willingc/jupyterhub-a-thing-explainer-overview) on JupyterHub.
+
 
 We also provide instructions for using [Miniconda](https://conda.io/miniconda.html), which is our recommended Python distribution. We can assist in setting up "conda" environments that will simplify the gathering of Python libraries and version specific to the tutorial you are working on.
 
@@ -36,7 +36,11 @@ Click [here](/01-conda-tutorial/) to start our Conda tutorial. Let us know if on
 
 ### Brushing up on Python
 
-Given all the heavy use of python during the oceanhackweek, we will not be able to provide instruction in Python fundamentals. Here are some excellent resources we recommend using to brush up on your Python skills in advance of our event:
+Given all the heavy use of Python during Oceanhackweek, we will not be able to provide instruction in Python fundamentals. We expect you to have basic Python familiarity on the level of manipulating variables (lists, arrays), writing loops/functions, making simple plots. If you have not used Python before or it has been a while since you have used it, please, go thouroughly through the lesson below
 
-* [Software carpentry lessons](https://software-carpentry.org/lessons/), especially the [Python tutorial](http://swcarpentry.github.io/python-novice-inflammation/)
+* [Python tutorial](https://swcarpentry.github.io/python-novice-gapminder/)
+* [Notebook environment] (swcarpentry/python-novice-gapminder/binder)
+
+The more, the better! Here are a few more Python resources:
+* [Codecademy Lesson](https://www.codecademy.com/learn/learn-python-3)
 * [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
