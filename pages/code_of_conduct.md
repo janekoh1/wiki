@@ -26,9 +26,7 @@ Harassment and other code of conduct violations reduce the value of Oceanhackwee
 
 This anti-harassment policy is based on the example policy from the Geek Feminism wiki, created by the Ada Initiative and other volunteers.
 
-<!-- ## Group Discussion from OHW 2018 Day 1
-
-Ideas from OHW participants from the initial 1-2-4 session on Monday morning:
+**Q: What can we do to create an optimal learning environment for everyone?**
 
 * If you see something, say something (wrt code of conduct) -- everyone can take responsibility for supporting participants
 * Push your comfort zone, ask questions from many, reach out to the room
@@ -42,4 +40,4 @@ Ideas from OHW participants from the initial 1-2-4 session on Monday morning:
 * Be mindful of everyone’s background and constraints
 * Work with the person, don’t just take over their keyboard
 * Opportunity for anonymous comments (also use Slack)
-* Empathize, put yourself in others’ shoes -->
+* Empathize, put yourself in others’ shoes 
