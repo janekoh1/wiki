@@ -1,7 +1,7 @@
 ---
-title: Hacking Central
+title: Project Guidelines
 sidebar: mydoc_sidebar
-permalink: hacking_central.html
+permalink: project_hack.html
 ---
 
 ## What is a Hack?
@@ -15,6 +15,7 @@ Examples of hacks include:
 * A modified algorithm applied to a new dataset
 * A mash-up of two pre-existing pieces of code to perform some new function
 
+
 ## Pro-Tips
 
 * Start with ideas that are close to home: your research, a project for your company, something you have always been interested in.
@@ -22,6 +23,7 @@ Examples of hacks include:
 * Start with the simplest things first, and add complexity later
 * Help your neighbor: you might be the person they need to solve their problem, and vice versa
 * When discussing, pitch your explanation to the least experienced hacker in the group, and you'll end up better understanding what you're trying to do
+
 
 ## Getting Started
 

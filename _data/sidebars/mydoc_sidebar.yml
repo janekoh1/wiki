@@ -3,7 +3,7 @@
 entries:
 - title: sidebar
   product: Oceanhackweek Wiki
-  version: 2018
+  version: 2019
   folders:
 
   - title:
@@ -23,7 +23,7 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Hackweek Overview
+    - title: What is a Hackweek?
       url: /index.html
       output: web, pdf
       type: homepage
@@ -32,38 +32,58 @@ entries:
       url: /code_of_conduct.html
       output: web, pdf
 
-    - title: Hacking Central
-      url: /hacking_central.html
-      output: web, pdf
-
     - title: Mission Statement
       url: /mission_statement.html
       output: web, pdf
 
-    - title: Travel and Lodging
+    - title: Logistics
       url: /travel_and_lodging.html
       output: web, pdf
 
-  - title: Details
+  - title: Hack Projects
     output: web, pdf
     folderitems:
 
-    - title: Participants
-      url: /participants.html
+    - title: Getting Started on Hacking
+      url: /project_hack.html
+      output: web, pdf
+
+    - title: Project Overview
+      url: /project_overview.html
       output: web, pdf
 
     - title: Project Guidelines
       url: /project_guidelines.html
       output: web, pdf
 
-  - title: Content
+  - title: Pre-hackweek preperation
     output: web, pdf
     folderitems:
 
-    - title: Running Jupyter Notebooks Locally
+    - title: Local Machine Setup
       url: /running_jupyter_notebooks.html
       output: web, pdf
 
     - title: Hackweek Materials
       url: /hackweek_materials.html
       output: web, pdf
+
+  - title: Participants
+    output: web, pdf
+    folderitems:
+
+    - title: 2019 participants
+      url: /participants_2019.html
+      output: web, pdf
+
+    - title: 2018 participants
+      url: /participants_2018.html
+      output: web, pdf
+
+    # - title: Running Jupyter Notebooks Locally
+    #   url: /running_jupyter_notebooks.html
+    #   output: web, pdf
+    #
+    # - title: Hackweek Materials
+    #   url: /hackweek_materials.html
+    #   output: web, pdf
