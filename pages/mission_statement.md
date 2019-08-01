@@ -6,11 +6,7 @@ permalink: mission_statement.html
 
 ## Core objectives
 
-The core objectives of Oceanhackweek 2019 is to promote data science literacy in ocean sciences and facilitate cultural change through community building.
-
-## Mission
-
-Our mission is to create a forum for collective innovation in developing software to address oceanographic science challenges. We will draw from eScience Institute [working group methodologies](http://escience.washington.edu/working-groups/) to advance the following goals:
+The core objective of Oceanhackweek 2019 is to promote effective computational practices for ocean research involving complex observational data and model outputs. Examples include but are not limited to visualizing and analyzing high-resolution ocean GCM simulations from ROMS, MOM, and MITgcm and working with datasets from ARGO, OOI, CCHDO, and IOOS.
 
 ### Training and education
 
