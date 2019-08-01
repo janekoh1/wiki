@@ -31,14 +31,16 @@ During the hackweek it will be useful to know how to navigate between files from
 
 ### Command line editor
 
-When working on the command line, it is often handy to modify file content directly from there. For that you can use a command line editor such as `nano`. On Mac and Linux it is usually pre-installed, but for Windows you can follow the instructions in this [link](http://carpentries.github.io/workshop-template/#editor) to set it up. Test your installation by opening a terminal and running `nano --varsion`.
+When working on the command line, it is often handy to modify file content directly from there. For that you can use a command line editor such as `nano`. On Mac and Linux it is usually pre-installed, but for Windows you can follow the instructions in this [link](http://carpentries.github.io/workshop-template/#editor) to set it up. Test your installation by opening a terminal and running `nano --version`.
 
 ### Resources
 
 Git and Github are very powerful tools but no doubt the learning curve is steep. Although we will cover some of the basics at Oceanhackweek, learning is an iterative process so below we list some resources which can help you be better prepared:
 
 [CUAHSI Tutorial](https://www.youtube.com/watch?v=Bc5BO9gPC9w&feature=youtu.be) (1 hour)
+
 [Software Carpentry Lesson](http://swcarpentry.github.io/git-novice/) (3 hours)
+
 [Github Learning Lab](https://lab.github.com/): practice with a bot! (On your own pace)
 
 
