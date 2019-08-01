@@ -23,6 +23,14 @@ We will use Git and Github for collaborative work. Be sure to arrive at Oceanhac
   ```
     sudo apt install git-all
   ```
+  
+  To test open the terminal (on Windows Git Bash) and setup your username and email:
+  
+  ```
+    git config --global user.name "your username"
+    git config --global user.email "your email"
+  ```
+ 
 
 ### Getting started with Bash
 
@@ -31,7 +39,11 @@ During the hackweek it will be useful to know how to navigate between files from
 
 ### Command line editor
 
-When working on the command line, it is often handy to modify file content directly from there. For that you can use a command line editor such as `nano`. On Mac and Linux it is usually pre-installed, but for Windows you can follow the instructions in this [link](http://carpentries.github.io/workshop-template/#editor) to set it up. Test your installation by opening a terminal and running `nano --version`.
+When working on the command line, it is often handy to modify file content directly from there. For that you can use a command line editor such as `nano`. On Mac and Linux it is usually pre-installed, but for Windows you can follow the instructions in this [link](http://carpentries.github.io/workshop-template/#editor) to set it up. Test your installation by opening a terminal and running `nano --version`. If it works you can link your github with nano:
+
+```
+git config --global core.editor "nano -w"
+```
 
 ### Resources
 
