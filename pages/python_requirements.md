@@ -36,9 +36,9 @@ To test your installation you can run `python` in the terminal and check if the 
 
 Given all the heavy use of Python during Oceanhackweek, we will not be able to provide instruction in Python fundamentals. We expect you to have basic Python familiarity on the level of manipulating variables (lists, arrays), writing loops/functions, making simple plots. If you have not used Python before or it has been a while since you have used it, please, go thouroughly through the lesson below
 
-* [Software Carpentry Python Tutorial](https://swcarpentry.github.io/python-novice-gapminder/)
+* [Software Carpentry Python Tutorial](https://swcarpentry.github.io/python-novice-gapminder/) (1 day workshop with exercises)
 * [Notebook environment](https://mybinder.org/v2/gh/swcarpentry/python-novice-gapminder/binder)
 
 The more, the better! Here are a few more Python resources:
-* [Codecademy Lesson](https://www.codecademy.com/learn/learn-python-3)
-* [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
+* [Codecademy Lesson](https://www.codecademy.com/learn/learn-python-3) (25 hours)
+* [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) (on your own pace)
