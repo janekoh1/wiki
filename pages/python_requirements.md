@@ -17,8 +17,6 @@ A [Jupyter Notebook](https://jupyter.org/) is an open-source web application tha
 
 Although, you we will provide you with a Python working environment, it will be good if you set up Python locally on your laptop: you might need it for some of your project work, Python review, or for future Python development. We recommend installing the [Miniconda](https://conda.io/miniconda.html) Python distribution. We can assist in setting up "conda" environments that will simplify the gathering of Python libraries and version specific to the tutorial you are working on.
 
-
-
 [**Conda**](http://conda.pydata.org/docs/) is an **open source `package` and `environment` management system for python libraries**. We will be using various
 Python libraries with multiple dependencies, so it is critical that you have some sort of 
 package management system in place. Conda can be installed in almost any computer. The advantage of [`conda` compared to `pip`](https://jakevdp.github.io/blog/2016/08/25/conda-myths-and-misconceptions) is that it has a built in environment management system as well as the management of binaries, and non-python dependencies.
@@ -31,7 +29,7 @@ Here are the system requirements:
 
 *NOTE: You do not need administrative or root permissions to install conda if you select a user-writable install location.*
 
-Click [here](/01-conda-tutorial/) to start our Conda tutorial. Let us know if on Slack you are having problems with installing Conda.
+To test your installation you can run `python` in the terminal and check if the version you have is Miniconda Python 3. Let us know if on Slack you are having problems with installing Conda.
 
 
 ### Brushing up on Python
