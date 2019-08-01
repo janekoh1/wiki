@@ -37,7 +37,7 @@ When working on the command line, it is often handy to modify file content direc
 
 Git and Github are very powerful tools but no doubt the learning curve is steep. Although we will cover some of the basics at Oceanhackweek, learning is an iterative process so below we list some resources which can help you be better prepared:
 
-[What is GitHub](https://www.youtube.com/watch?v=w3jLJU7DT5E) (3:45 min)
+[What is GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E) (3:45 min)
 
 [CUAHSI Tutorial](https://www.youtube.com/watch?v=Bc5BO9gPC9w&feature=youtu.be) (1 hour)
 
