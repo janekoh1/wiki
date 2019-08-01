@@ -56,7 +56,7 @@ entries:
       url: /project_guidelines.html
       output: web, pdf
 
-  - title: Pre-hackweek preperation
+  - title: Pre-Hackweek Preperation
     output: web, pdf
     folderitems:
 
