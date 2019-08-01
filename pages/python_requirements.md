@@ -1,7 +1,7 @@
 ---
 title: Python Requirements
 sidebar: mydoc_sidebar
-permalink: running_jupyter_notebooks.html
+permalink: python_requirements.html
 ---
 
 ### Overview
