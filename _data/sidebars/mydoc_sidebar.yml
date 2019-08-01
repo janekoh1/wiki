@@ -56,16 +56,16 @@ entries:
       url: /project_guidelines.html
       output: web, pdf
 
-  - title: Pre-hackweek preperation
+  - title: Pre-hackweek preparation
     output: web, pdf
     folderitems:
 
-    - title: Local Machine Setup
-      url: /running_jupyter_notebooks.html
+    - title: Python Requirements
+      url: /python_requirements.html
       output: web, pdf
 
-    - title: Hackweek Materials
-      url: /hackweek_materials.html
+    - title: Github Setup
+      url: /github_setup.html
       output: web, pdf
 
   - title: Participants
