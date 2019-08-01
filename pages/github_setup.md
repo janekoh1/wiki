@@ -1,10 +1,10 @@
 ---
-title: Git 
+title: Git & GitHub Setup
 sidebar: mydoc_sidebar
 permalink: github_setup.html
 ---
 
-### Getting setup with Git and Github
+### Getting setup with Git and GitHub
 
 We will use Git and Github for collaborative work. Be sure to arrive at Oceanhackweek with your own [GitHub](https://github.com/) account.
 
@@ -47,7 +47,7 @@ git config --global core.editor "nano -w"
 
 ### Resources
 
-Git and Github are very powerful tools but no doubt the learning curve is steep. Although we will cover some of the basics at Oceanhackweek, learning is an iterative process so below we list some resources which can help you be better prepared:
+Git and GitHub are very powerful tools but no doubt the learning curve is steep. Although we will cover some of the basics at Oceanhackweek, learning is an iterative process so below we list some resources which can help you be better prepared:
 
 [What is GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E) (3:45 min)
 
@@ -55,6 +55,6 @@ Git and Github are very powerful tools but no doubt the learning curve is steep.
 
 [Software Carpentry Lesson](http://swcarpentry.github.io/git-novice/) (3 hours with exercises)
 
-[Github Learning Lab](https://lab.github.com/): practice with a bot! (On your own pace)
+[GitHub Learning Lab](https://lab.github.com/): practice with a bot! (On your own pace)
 
 
