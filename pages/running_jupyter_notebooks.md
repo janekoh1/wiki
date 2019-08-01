@@ -38,7 +38,7 @@ Click [here](/01-conda-tutorial/) to start our Conda tutorial. Let us know if on
 
 Given all the heavy use of Python during Oceanhackweek, we will not be able to provide instruction in Python fundamentals. We expect you to have basic Python familiarity on the level of manipulating variables (lists, arrays), writing loops/functions, making simple plots. If you have not used Python before or it has been a while since you have used it, please, go thouroughly through the lesson below
 
-* [Python tutorial](https://swcarpentry.github.io/python-novice-gapminder/)
+* [Software Carpentry Python Tutorial](https://swcarpentry.github.io/python-novice-gapminder/)
 * [Notebook environment](https://mybinder.org/v2/gh/swcarpentry/python-novice-gapminder/binder)
 
 The more, the better! Here are a few more Python resources:
