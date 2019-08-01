@@ -4,7 +4,7 @@ sidebar: mydoc_sidebar
 permalink: mission_statement.html
 ---
 
-## Core objectives
+### Core objectives
 
 The core objective of Oceanhackweek 2019 is to promote effective computational practices for ocean research involving complex observational data and model outputs. Examples include but are not limited to visualizing and analyzing high-resolution ocean GCM simulations from ROMS, MOM, and MITgcm and working with datasets from ARGO, OOI, CCHDO, and IOOS.
 

@@ -4,7 +4,7 @@ sidebar: mydoc_sidebar
 permalink: participants_2019.html
 ---
 
-## Oceanhackweek Participant list: 2019
+### Oceanhackweek Participant list: 2019
 
 Ágata Piffer Braga [![github icon](https://raw.githubusercontent.com/geohackweek/ghw2016/master/img/github-black.png)](https://github.com/AgataPB)
 
