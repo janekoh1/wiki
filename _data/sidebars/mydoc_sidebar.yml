@@ -37,7 +37,7 @@ entries:
       output: web, pdf
 
     - title: Logistics
-      url: /travel_and_lodging.html
+      url: /logistics.html
       output: web, pdf
 
   - title: Hack Projects

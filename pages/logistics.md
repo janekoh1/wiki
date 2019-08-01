@@ -1,17 +1,18 @@
 ---
 title: Logistics
 sidebar: mydoc_sidebar
-permalink: travel_and_lodging.html
+permalink: logistics.html
 ---
 
-## Quick info
+### Quick info
 - Oceanhackweek will be held in the [**Alder Hall**](https://www.google.com/maps/place/Alder+Hall/@47.6554627,-122.3161919,17z/data=!3m1!4b1!4m5!3m4!1s0x549014f3a8e0b367:0xbb5d4cb93538ce99!8m2!3d47.6554591!4d-122.3140032) rooms 103, 104, 107 and the Commons foyer at the University of Washington, Seattle campus.
 - **Doors open at 8:30am** each morning (Monday-Friday), and we will get started right around 9am. The doors will be locked each morning prior to 8:30am.
 - Check in will take place on the first day in The Commons foyer. You will receive a nametag and be asked to sign a media release form.
 - Due to space limitations, only registered Oceanhackweek participants will be allowed to attend the tutorials and open working sessions.
 - **Participants are expected to attend all scheduled Oceanhackweek activities.** Please email oceanhkw@uw.edu if any circumstances prevent you from attending.
 
-## Food
+
+### Food
 
 - Funded participants will receive meal cards loaded with $25 each event day to use on all five days of Oceanhackweek. Any unused balances on the cards will roll over into the next event day. Participants will be free to use their cards to purchase foods and beverages at any of the [UW dining locations](https://hfs.uw.edu/Eat/Dining-Locations/By-George) such as [Local Point](https://hfs.uw.edu/Eat/Dining-Locations/Local-Point) in Lander Hall. Local point is an all-you-can-eat dining facility near the hackweek venue. Breakfast will be available at Local Point from 7am - 9am each morning. Funded participants will be expected to cover any additional needs beyond the provided amount on the cards at their own expense.
 Non-funded participants are also welcome to dine at any UW dining locations at their own expense.
@@ -21,12 +22,14 @@ Non-funded participants are also welcome to dine at any UW dining locations at t
 - If you plan to have alcohol at our reception on Monday, please be sure to bring your ID as the bartenders are required to check.
 - Coffee breaks will be provided each day.
 
-## Internet access and communication
+
+### Internet access and communication
 - For information on wireless access, you can either use Eduroam, if it’s available to you, or we’ll give you guest access to the UW network on the first day.
 - Twitter: #Oceanhackweek
 - Slack: [https://oceanhackweek2019.slack.com](https://oceanhackweek2019.slack.com/)
 
-## Flights and ground transportation
+
+### Flights and ground transportation
 
 For your flights, the closest airport to our university is the Seattle-Tacoma International Airport, which offers a range of connections to the University of Washington Campus.
 
@@ -41,7 +44,8 @@ If you have any questions about travel policies, please email travel@uw.edu
 
 After making sure that all the above requirements are met, please go ahead and book your flights and hold onto all documentation for claiming your reimbursement after the event. All funded travelers will be put in contact with the travel coordinator to send their documentation to via email after the event has concluded.
 
-## Lodging
+
+### Lodging
 
 All funded participants will be staying in a doubles dorm at Alder Hall. They will be assigned at random to another participant of the same sex. You must email oceanhkw@uw.edu by July 19 if you have any special needs.
 

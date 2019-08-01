@@ -4,7 +4,7 @@ sidebar: mydoc_sidebar
 permalink: participants_2018.html
 ---
 
-## Oceanhackweek Participant list: 2018
+### Oceanhackweek Participant list: 2018
 
 Cheryl Greengrove [![github icon](https://raw.githubusercontent.com/geohackweek/ghw2016/master/img/github-black.png)](https://github.com/cgreengrove)
 
